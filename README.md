@@ -1,6 +1,5 @@
 # angular-template
 Angular 2 skeleton for projects
-# ts-to-do
 
 This README outlines the details of collaborating on this Angular 2 application.
 
